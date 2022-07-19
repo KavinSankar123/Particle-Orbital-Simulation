@@ -1,7 +1,3 @@
 # Particle-Orbital-Simulation
 
-![alt text](https://github.com/KavinSankar123/Particle-Orbital-Simulation/main/Demo.png?raw=true)
-![Alt text](https://github.com/[KavinSankar123]/[{Particle-Orbital-Simulation]/img.jpg?raw=true "Title")
-
-
-https://github.com/KavinSankar123/Particle-Orbital-Simulation/blob/main/Demo.png
+<img width="783" alt="Demo" src="https://user-images.githubusercontent.com/90232501/179839566-3b5db708-282e-438a-b2ac-4a192cf225f4.png">
