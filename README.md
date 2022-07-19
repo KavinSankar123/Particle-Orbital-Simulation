@@ -9,6 +9,7 @@
 - Simulating over 10,000 particles and their orbits around a singular gravity source (the white circle).
 - Mading using C++ and SFML
 - Utilizes the inverse-square law to simulate the effects of gravity
+- Link to full Youtube video: https://youtu.be/uvjFF_FBKVY
 
 ## Purpose
 - To familiarize myself with C++ and practice object-oriented programming
