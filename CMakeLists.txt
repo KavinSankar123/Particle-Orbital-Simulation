@@ -3,7 +3,7 @@ project(SimpleParticleSimulation)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES main.cpp GravitySource.cpp GravitySource.h Particle.cpp DeletedCode.cpp main2.cpp)
+set(SOURCE_FILES main.cpp GravitySource.cpp Particle.cpp main2.cpp)
 add_executable(HelloSFML ${SOURCE_FILES})
 include_directories(/usr/local/include)
 
